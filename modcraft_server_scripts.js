@@ -1,4 +1,4 @@
-#Esse código pertence ao meu modpack Modcraft
+//Esse código pertence ao meu modpack Modcraft
 
 onEvent('recipes', event => {
 
